@@ -1,0 +1,5 @@
+Analysis of School Data
+Some observations from the school data are:
+* Charter schools have higher pass rates than district schools
+* Spending more per student did not correlate to better passing rates
+* Smaller schools (size) performed better than larger schools for average and passing rates
